@@ -9,4 +9,4 @@
 - Using AWS and it's features
 
 
-# Thanks A lot @parjanyamodi[https://github.com/parjanyamodi]
+# Thanks A lot [@parjanyamodi](https://github.com/parjanyamodi)
